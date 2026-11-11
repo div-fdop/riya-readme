@@ -21,6 +21,7 @@ Riya is a practice-account companion that talks to the owner's account (and, car
 - **Check the server** — read-only status commands, and only when the owner asks.
 - **Post** — the owner can ask Riya to publish to the owner's account, with optional image and video edits. Nothing goes out until the owner confirms.
 - **Draft replies** — Riya can write a reply in the owner's own texting style. It is sent only after a `haan` (or an `edit:`), and every message carries a clear AI tag so people know an assistant wrote it.
+- Talks in its owner's own trained voice (Piper TTS)
 
 ## 🔒 Privacy first
 
